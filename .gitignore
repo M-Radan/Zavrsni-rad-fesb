@@ -1,0 +1,10 @@
+# Android / Build
+*.apk
+/app/build/
+/.gradle/
+/.idea/
+*.iml
+
+# OpenCV native libs
+*.a
+*.so
